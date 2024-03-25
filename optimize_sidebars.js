@@ -1848,6 +1848,10 @@ module.exports = {
                 docsLink(
                   "Multi-namespace deployment",
                   "self-managed/platform-deployment/helm-kubernetes/guides/multi-namespace-deployment/"
+                ),                
+                docsLink(
+                  "Verifying Camunda 8 Installation",
+                  "self-managed/platform-deployment/helm-kubernetes/guides/installing-payment-app-example/"
                 ),
               ],
             },
